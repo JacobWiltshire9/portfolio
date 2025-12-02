@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="final.js" defer></script>
+    <title>Black Ops 6 Guide</title>
+    <link rel = "stylesheet" href = "final.css">
+</head>
+
+<body>
+    <ul class="tabs">
+        <li data-tab-target="#home" class="active tab">Home</li>
+        <li data-tab-target="#sub" class="tab">SMG Pubs / Ranked</li>
+        <li data-tab-target="#ar" class="tab">AR Pubs / Ranked</li>
+        <li data-tab-target="#camos" class="tab">Camo Grind Methods</li>
+    </ul>
+
+    <div class="tab-content">
+        <div id="home" data-tab-content="active">
+            <h1>Home</h1>
+            <img src="bo6Cover.jpg" alt = "Black Ops 6 Cover Photo" class="center" height = "300" width = "500">
+            <p>- Welcome to the ultimate Call of Duty: Black Ops 6 Guide</p>
+            <p>- The guide will consist of which weapons are best class setups for pub stomping along with the best class setups for ranked play</p>
+            <p>- There will also be tips on how to get the mastery camos in multiplayer and zombies.<p>
+        </div>
+        <div id="sub" data-tab-content>
+            <h1>SMG Pubs / Ranked</h1>
+            <img src="ksv loadout.png" alt = "KSV photo" height = "300" width = "400">
+            <p>- This loadout is for the smg players in pubs who like to run around the map and get quick kills.</p>
+            <p>KSV: Ported Compensator, Long Barrel, Ranger Foregrip, Extended Mag I, and Recoil Springs.</p>
+            <p>Greykova: Long Barrel, Extended Mag III, HipFire Laser, Akimbo, FMJ Rounds.</p>
+            <p>Melee: Knife</p>
+            <p>Perks: Gung Ho, Assassin, Double Time, and Flak Jacket.</p>
+            <p>Tactical: Stim Shot.</p>
+            <p>Lethal: Semtex.</p>
+            <p>Field Upgrade: Assault Pack or Trophy System.</p>
+            <p>Wildcard: Perk Greed</p>
+            <img src="jackal loadout.png" alt = "Jackal photo" height = "300" width = "400">
+            <p>- This loadout is for ranked to help you stay on the objective.</p>
+            <p>Jackal: Ported Compensator, Reinforced Barrel, Ranger Foregrip, CQB Grip, and Recoil Springs.</p>
+            <p>Stryder .22: Kepler Microflex, Fast Mag II, and Quickdraw Grip.</p>
+            <p>Melee: Knife</p>
+            <p>Perks: Flak Jacket, Fast Hands, Double Time, and Ninja.</p>
+            <p>Tactical: Concussion.</p>
+            <p>Lethal: Semtex.</p>
+            <p>Field Upgrade: Trophy System.</p>
+            <p>Wildcard: Perk Greed</p>
+        </div>
+        <div id="ar" data-tab-content>
+            <h1>AR Pubs / Ranked</h1>
+            <img src="krig loadout.png" alt = "Krig-C photo" height = "300" width = "400">
+            <p>- This loadout is for the AR players in pubs who like to play a little more passive.</p>
+            <p>Krig C: Kepler Microflex, Long Barrel, Ranger Foregrip, Extended Mag I, and Recoil Springs.</p>
+            <p>Greykova: Long Barrel, Extended Mag III, HipFire Laser, Akimbo, FMJ Rounds.</p>
+            <p>Melee: Knife</p>
+            <p>Perks: Gung Ho, Assassin, Double Time, and Flak Jacket.</p>
+            <p>Tactical: Stim Shot.</p>
+            <p>Lethal: Semtex.</p>
+            <p>Field Upgrade: Assault Pack or Trophy System.</p>
+            <p>Wildcard: Perk Greed</p>
+            <img src="ames loadout.png" alt = "Ames photo" height = "300" width = "400">
+            <p>- This loadout is for ranked to help your team hold choke points and win those long range aim duals.</p>
+            <p>Ames: Kepler Microflex, Ported Compensator, Reinforced Barrel, Ranger Foregrip, and Recoil Springs.</p>
+            <p>Stryder .22: Kepler Microflex, Fast Mag II, and Quickdraw Grip.</p>
+            <p>Melee: Knife</p>
+            <p>Perks: Flak Jacket, Fast Hands, Double Time, and Ninja.</p>
+            <p>Tactical: Concussion.</p>
+            <p>Lethal: Semtex.</p>
+            <p>Field Upgrade: Trophy System.</p>
+            <p>Wildcard: Perk Greed</p>
+        </div>
+        <div id="camos" data-tab-content>
+            <h1>Camo Grind Methods</h1>
+            <img src="darkmatter.png" alt = "Dark Matter photo" height = "300" width = "400">
+            <p>- This is going to give some tips on how to get Dark Matter in Multiplayer</p>
+            <p>- When you're grinding for Dark Matter one of the easiest ways to get your 100 headshots is to take advantage of Hardcore Nuketown 24/7 and Core or Hardcore Stakeout 24/7 when these maps are available.</p>
+            <p>- Hardcore is good for getting headshots because most guns are 1 shot to the head in order to get a kill and others will be 2 shots to the head.</p>
+            <p>- Stakeout is good for getting headshots but also easy to get double kills, triple kills, 3 kills without dying, and bloodthirsty's since the map is so close quarted and small it helps getting gun fights easier.</p>
+            <img src="nebula.png" alt = "Nebula photo" height = "300" width = "400">
+            <p>- Down here I'll give some tips on how to get Nebula in Zombies.</p>
+            <p>- Getting 2000 critical kills with each gun is very time consuming and will be a grind for sure but there is one method I found to make things a little easier.</p>
+            <p>- Load into Liberty Falls in Directed Mode with the gun you want to work on for that game, Go through the map following the icons telling you which doors to open.</p>
+            <p>- Once you open up pack-a-punch an icon will pop up in pack-a-punch room. DO NOT INTERACT with the machine because it will start the easter egg. If you don't interact with the machine the round cap will be at round 11.</p>
+            <p>- With the round cap being at 11 you will be able to still upgrade your gun to pack-a-punch III and get your perks but the round will not progress past round 11 and zombies will keep spawning meaning your gun will be very strong for round 11 zombies.</p>
+        </div>
+    </div>
+</body>
+</html>
